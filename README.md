@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
+```
